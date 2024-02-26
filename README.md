@@ -110,3 +110,5 @@ One step closer to the end. Let us return to osTicket in the web-interface. Name
 - Click “Install Now!”
 
 Hopefully osTicket is up and running without any issues
+
+Now let us be on our way to the next assignment. [Post Installation Config](https://github.com/VernonBootheITPro/osticket---Post-Install-Config)
